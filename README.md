@@ -1,6 +1,7 @@
 ![logo](https://github.com/Lalitkumar19/Lalit-kumar/blob/main/images/github-banner-lalit.jpg)
 # 💫 About Me:
 I'm Lalit and I'm a Web developer<br>dedicated and highly skilled web developer with a passion for crafting seamless and intuitive online experiences. With extensive expertise in front-end and back-end technologies, Lalit excels at creating responsive and visually appealing websites that meet the unique needs of clients. His proficiency in HTML, CSS, JavaScript, and modern frameworks such as React and Angular, combined with a strong understanding of server-side languages like Node.js and PHP, allows him to build robust and scalable web applications. Lalit’s commitment to staying updated with the latest industry trends ensures that he consistently delivers innovative and efficient solutions. Known for his meticulous attention to detail and problem-solving abilities, Lalit Kumar is a valuable asset to any development team, dedicated to bringing creative visions to life through code.
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 ## 🌐 Socials:
@@ -23,9 +24,9 @@ I'm Lalit and I'm a Web developer<br>dedicated and highly skilled web developer 
 ![](https://github-contributor-stats.vercel.app/api?username=Lalitkumar19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lalitkumar19&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](![image](https://github.com/Lalitkumar19/Lalit-kumar/assets/160709046/ff9c3234-4386-4b0b-9b9b-f6f75d7e01b0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
